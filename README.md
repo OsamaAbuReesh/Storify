@@ -1,10 +1,8 @@
 to run :
 install chartjs : "npm install --save chart.js react-chartjs-2" .
 
-Many sellers use paper as their day-to-day business management activities, their process
-ow is slow, unreliable and they often end up losing a huge percentage of their data, and
-invoices of their orders are often complex and also time-consuming processes.
-Here at Storify, we’re trying to solve this day-to-day challenge, with Storify we use
-technology to combine a multitude of business processes and enable the flow of data
-between them. To build one of the best online admin management tools. So you can
-eliminate manual processes with our help!
+Many sellers still rely on paper for daily business management, resulting in slower workflows, unreliability, and significant data loss.
+Additionally, their invoicing processes can be cumbersome and time-consuming. At Storify, we aim to address these challenges.
+By leveraging technology, Storify integrates various business operations, 
+facilitating seamless data flow among them. Our goal is to offer one of the top online admin management tools,
+empowering you to do away with manual tasks and optimize your operations. Join us in revolutionizing business management!
