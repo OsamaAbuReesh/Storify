@@ -1,6 +1,8 @@
 to run :
 install chartjs : "npm install --save chart.js react-chartjs-2" .
 
+- This project was done in a Team Project-1 course at An-Najah University.
+
 Many sellers still rely on paper for daily business management, resulting in slower workflows, unreliability, and significant data loss.
 Additionally, their invoicing processes can be cumbersome and time-consuming. At Storify, we aim to address these challenges.
 By leveraging technology, Storify integrates various business operations, 
